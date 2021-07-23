@@ -10,7 +10,9 @@ So I implemented the custom el-table theme for vgt to give it the same aesthetic
 For using this just add these scss files and add prop `theme = 'el-table-them'` to vgt
 
 ```js
-<vue-good-table theme="el-table-theme">// ...</vue-good-table>
+<vue-good-table theme="el-table-theme">
+...
+</vue-good-table>
 ```
 
-For reference - [Theme](!https://github.com/xaksis/vue-good-table/tree/master/src/styles/black-rhino)
+For reference - [Theme](https://github.com/xaksis/vue-good-table/tree/master/src/styles/black-rhino)
